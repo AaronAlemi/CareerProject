@@ -2,7 +2,7 @@
 
 ## Frontend Deployment Steps
 
-### Backend Deployment Steps
+## Backend Deployment Steps
 
 Here is how you can run the backend api on your localhost server:
 
