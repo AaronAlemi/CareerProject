@@ -1,8 +1,10 @@
-CareerProject
+# CareerProject
 
-Frontend Deployment Steps
+## Frontend Deployment Steps
 
-Backend Deployment Steps
+### Backend Deployment Steps
+
+Here is how you can run the backend api on your localhost server:
 
 1. Download node here: https://github.com/nodists/nodist
 2. Ensure you can run the following in your terminal without issue:
