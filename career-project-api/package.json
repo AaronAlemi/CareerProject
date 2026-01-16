@@ -1,0 +1,27 @@
+{
+  "name": "career-project-api",
+  "version": "1.0.0",
+  "description": "Backend API for the Career Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronAlemi/CareerProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronAlemi/CareerProject/issues"
+  },
+  "homepage": "https://github.com/AaronAlemi/CareerProject#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "morgan": "^1.10.1"
+  }
+}
