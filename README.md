@@ -6,7 +6,7 @@ Here is how to run the frontend on your local server:
 1. Run the following commands
     - ```cd frontend```
     - ```npm install```
-    ```npm run dev```
+    - ```npm run dev```
 
 ## Backend Deployment Steps
 
@@ -22,3 +22,4 @@ Here is how you can run the backend api on your localhost server:
 
 4. Start the api server using this command:
     - ```npm start```
+
